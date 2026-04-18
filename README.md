@@ -1,4 +1,4 @@
-"*The first principle is that you must not fool yourself and you are the easiest person to fool.*”
+"*I learned very early the difference between knowing the name of something and knowing something.*”
 
                                                                          ... Richard P. Feynman
 
