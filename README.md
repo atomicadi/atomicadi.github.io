@@ -2,5 +2,5 @@
 
                                                                          ... Richard P. Feynman
 
-![image] docs/assets/Aditya-Barman_Vintage-image.png
+![image] (docs/assets/Aditya-Barman_Vintage-image.png)
 
