@@ -56,7 +56,7 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 
 **2024**
 
-(1) **Barman, A.**; Kumar, A.; Kumar, P. Stereodynamic origin of mode selectivity in the NH3 + F →NH2 + HF reaction.  _J. Chem. Sci._, **2024**, 136, 64. [Link](https://doi.org/10.1007/s12039-024-02306-1) 
+(1) **Barman, A.**; Kumar, A.; Kumar, P. Stereodynamic origin of mode selectivity in the NH3 + F → NH2 + HF reaction.  _J. Chem. Sci._, **2024**, 136, 64. [Link](https://doi.org/10.1007/s12039-024-02306-1) 
 
 
 ## Hobbies
