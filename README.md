@@ -47,14 +47,14 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 
 
 ## Publications
-**2026**
+- **2026**
 
 (3) Fishman, V.; Lőrincz, B. D.; Semidalas, E.; **Barman, A.**; Martin, J. M. L.; Nagy, P. R.; Kállay, M. Development of Local Natural Orbital Arbitrary Order Coupled Cluster Methods and Assessment through Connected Quadruples. _J. Phys. Chem. A_, **2026**, xxx, xx, xxxx-xxxx (will beupdated soon). [Link](https://doi.org/10.1021/acs.jpca.6c00607) 
 
 
 (2) **Barman, A.**; Jones, G. H.; Weflen, K. E.; Shepelenko, M.; Martin, J. M. L. Coupling between Thermochemical Contributions of Subvalence Correlation and of Higher-Order Post-CCSD(T) Correlation Effects — A Step toward “W5 Theory”.  _J. Phys. Chem. A_, **2026**, 130, 2943-2955. [Link](https://doi.org/10.1021/acs.jpca.6c00467) 
 
-**2024**
+- **2024**
 
 (1) **Barman, A.**; Kumar, A.; Kumar, P. Stereodynamic origin of mode selectivity in the NH3 + F → NH2 + HF reaction.  _J. Chem. Sci._, **2024**, 136, 64. [Link](https://doi.org/10.1007/s12039-024-02306-1) 
 
