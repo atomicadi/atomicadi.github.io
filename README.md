@@ -36,3 +36,7 @@ Thesis title: Stereodynamic origin of mode selectivity in the NH<sub>3</sub> + F
 Supervisor: Dr. Pradeep Kumar\
 Thesis title: Origin of mode selectivity (Umbrella inversion mode) in the reaction NH<sub>3</sub> + F → NH<sub>2</sub> + HF?<br><br>
 
+
+## Computational Chemistry Code(s)
+**FORT (Fortran Operator for Rate Theory):** A generalized FORTRAN code (with LAPACK routines) that evaluates partition functions for reaction
+species and applies them to compute Conventional Transition State Theory (CTST) rate constant. [Link]([https://google.com](https://github.com/atomicadi/Chemical-kinetics_in-Fortran/tree/main/FORT_CTST))
