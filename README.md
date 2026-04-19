@@ -24,7 +24,15 @@
 Supervisor: Prof. Gershom (Jan M. L.) Martin\
 Thesis title: Next-Generation Accurate Wavefunction-based Thermochemistry: W5 Theory and Approximations Through Localized-Orbital Coupled Cluster Approaches and Δ Machine Learning<br><br>
 
-**2021-2023:** &nbsp;&nbsp; Master’s Thesis, Malaviya National Institute of Technology, Jaipur, India\
+**Oct., 2024-March, 2025:** &nbsp;&nbsp; Project Associate, Malaviya National Institute of Technology, Jaipur, India\
+PI: Dr. Pradeep Kumar\
+Project Title: Computational modelling of Heterogeneous and Multiphase Chemistry in the Atmosphere.<br><br>
+
+**June, 2023-Oct., 2023:** &nbsp;&nbsp; Extension of Master’s Thesis, Malaviya National Institute of Technology, Jaipur, India\
+Supervisor: Dr. Pradeep Kumar\
+Thesis title: Stereodynamic origin of mode selectivity in the NH<sub>3</sub> + F →  NH<sub>2</sub> + HF reaction.<br><br>
+
+**April, 2022-May, 2023:** &nbsp;&nbsp; Master’s Thesis, Malaviya National Institute of Technology, Jaipur, India\
 Supervisor: Dr. Pradeep Kumar\
 Thesis title: Origin of mode selectivity (Umbrella inversion mode) in the reaction NH<sub>3</sub> + F → NH<sub>2</sub> + HF?<br><br>
 
