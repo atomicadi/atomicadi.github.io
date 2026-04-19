@@ -63,7 +63,7 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 
 ## Contact Info.
 Aditya Barman, Graduate Student,\
-Room 262, Kimmelman Building, Weizmann Institute of Science, 234 Herzl St., Reh .ovot 7610001, Israel\
+Room 262, Kimmelman Building, Weizmann Institute of Science, 234 Herzl St., Rehovot 7610001, Israel\
 Email Id: aditya.barman@weizmann.ac.il (Institutional), atomicadi2023@gmail.com (Personal)\
 [Google Scholar](https://scholar.google.com/citations?user=Zo7VTdgAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Aditya-Barman-3), [ORCID](https://orcid.org/0009-0003-3863-2564)
 
