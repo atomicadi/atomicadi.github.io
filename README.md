@@ -13,3 +13,5 @@
 &nbsp;Thank you for visiting my website. A brief overview of my education, research work, life, and hobbies is given below:<br><br>
 </p>
 
+## Education
+2025-Present: &nbsp;&nbsp; Ph.D. in Computational Quantum Chemistry, Weizmann Institute of Science, Israel
