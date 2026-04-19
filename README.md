@@ -4,7 +4,7 @@
 
 <p>
   <img src="docs/assets/Aditya-Barman_Vintage-image.png" width="200" align="left">
-Believing in R.F.’s words, I joined Weizmann as a graduate student to train myself as a Computational Chemist, and since then, I have worked with a wide range of software and research challenges.
+Believing in R.F.’s words, I joined Weizmann as a graduate student to train myself as a Computational Chemist, and since then, I have worked with a wide range of software and research challenges.<br>
 
 Somewhere between quantum mechanics and chemistry, I deal with the time-independent Schrödinger equation, simulate molecular dynamics, and study reaction kinetics—trying to bring some order to the chaos of the quantum world. For this purpose, I joined the group of Prof. Gershom (Jan M. L.) Martin at the Department of Molecular Chemistry and Materials Science last year.
 
