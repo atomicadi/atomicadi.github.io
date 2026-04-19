@@ -14,4 +14,6 @@
 </p>
 
 ## Education
-2025-Present: &nbsp;&nbsp; Ph.D. in Computational Quantum Chemistry, Weizmann Institute of Science, Israel
+2025-Present: &nbsp;&nbsp; Ph.D. in Computational Quantum Chemistry, Department of Molecular Chemistry and Materials Science, Weizmann Institute of Science, Israel<br>
+2021-2023: &nbsp;&nbsp; M.Sc in Chemistry, Department of Chemistry, Malaviya National Institute of Technology, Jaipur, India<br> 
+2018-2021: &nbsp;&nbsp; B.Sc in Chemistry (Hons.), Department of Chemistry, Ramakrishna Mission Vivekananda Centenery College, Rahara, Kolkata, India<br> 
