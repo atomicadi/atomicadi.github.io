@@ -20,7 +20,7 @@
 
 
 ## Research Experiences
-2025-Present: &nbsp;&nbsp; Ph.D. Thesis, Weizmann Institute of Science, Israel
+**2025-Present:** &nbsp;&nbsp; Ph.D. Thesis, Weizmann Institute of Science, Israel
 
 Supervisor: Prof. Gershom (Jan M. L.) Martin\
 Thesis title: Next-Generation Accurate Wavefunction-based Thermochemistry: W5 Theory and Approximations Through Localized-Orbital Coupled Cluster Approaches and Δ Machine Learning<br><br>
