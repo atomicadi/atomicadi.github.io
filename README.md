@@ -40,3 +40,8 @@ Thesis title: Origin of mode selectivity (Umbrella inversion mode) in the reacti
 ## Computational Chemistry Code(s)
 **FORT (Fortran Operator for Rate Theory):** A generalized FORTRAN code (with LAPACK routines) that evaluates partition functions for reaction
 species and applies them to compute Conventional Transition State Theory (CTST) rate constant. [Link](https://github.com/atomicadi/Chemical-kinetics_in-Fortran/tree/main/FORT_CTST)
+
+**Microcanonical normal-mode sampling** is implemented in Fortran to generate initial conditions at fixed total energy (NVE) for molecular dynamics/trajectory simulations. [Link](https://github.com/atomicadi/Microcanonical-normal-mode-sampling_in-Fortran)
+
+**Fortran 1D Fourier Grid Hamiltonian (FGH)** solver to compute bound- state spectra for the Morse potential of H2, and the double-well potential of NH<sub>3<\sub>. [Link](https://github.com/atomicadi/Fourier-Grid-Hamiltonian_in-Fortran) 
+
