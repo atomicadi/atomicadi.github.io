@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;Previously, during my M.Sc., with the help of my lab seniors, I developed a strong mindset to persist and stay focused on the same problem despite repeated failures. As a challenging profession, research has helped me learn to work in a team, think about problems from new perspectives, and approach them systematically. With these capabilities, I aim to explore the vast quantum world further and deepen my understanding in this exciting field of theoretical chemistry.<br><br>
 
-&nbsp;Thank you for visiting my website. A brief overview of my education, research work, life, and hobbies is given below:<br><br>
+&nbsp;So, I am Aditya— a quantum and programming enthusiast— and thank you for visiting my website. A brief overview of my education, research work, life, and hobbies is given below:<br><br>
 </p>
 
 ## Education
