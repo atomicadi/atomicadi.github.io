@@ -20,12 +20,11 @@
 
 
 ## Research Experiences
-**2025-Present:** &nbsp;&nbsp; Ph.D. Thesis, Weizmann Institute of Science, Israel
+**2025-Present:** &nbsp;&nbsp; Ph.D. Thesis, Weizmann Institute of Science, Israel\
 Supervisor: Prof. Gershom (Jan M. L.) Martin\
 Thesis title: Next-Generation Accurate Wavefunction-based Thermochemistry: W5 Theory and Approximations Through Localized-Orbital Coupled Cluster Approaches and Δ Machine Learning<br><br>
 
-**2021-2023:** &nbsp;&nbsp; Master’s Thesis, Malaviya National Institute of Technology, Jaipur, India<br><br>
+**2021-2023:** &nbsp;&nbsp; Master’s Thesis, Malaviya National Institute of Technology, Jaipur, India\
 Supervisor: Dr. Pradeep Kumar\
 Thesis title: Origin of mode selectivity (Umbrella inversion mode) in the reaction NH<sub>3</sub> + F → NH<sub>2</sub> + HF?<br><br>
 
-2018-2021: &nbsp;&nbsp; B.Sc in Chemistry (Hons.), Department of Chemistry, Ramakrishna Mission Vivekananda Centenery College, Rahara, Kolkata, India<br><br> 
