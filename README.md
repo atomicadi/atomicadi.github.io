@@ -48,4 +48,5 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 
 ## Publications
 **2026**
+
 3. V. Fishman, B. Lórincz, E. Semidalas, **A. Barman**, J. M. L. Martin, P. R. Negy, and M. Kallay, Development of local natural orbital arbitrary order coupled cluster methods and assessment through connected quadruples, ChemRxiv 2026, DOI: 10.26434/chemrxiv.10001857/v1 (accepted in JPC A)
