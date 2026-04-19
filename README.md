@@ -49,10 +49,10 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 ## Publications
 **2026**
 
-3. V. Fishman, B. Lórincz, E. Semidalas, **A. Barman**, J. M. L. Martin, P. R. Negy, and M. Kallay, Development of local natural orbital arbitrary order coupled cluster methods and assessment through connected quadruples, ChemRxiv 2026, DOI: 10.26434/chemrxiv.10001857/v1 (accepted in JPC A)
+(3) V. Fishman, B. Lórincz, E. Semidalas, **A. Barman**, J. M. L. Martin, P. R. Negy, and M. Kallay, Development of local natural orbital arbitrary order coupled cluster methods and assessment through connected quadruples, ChemRxiv 2026, DOI: 10.26434/chemrxiv.10001857/v1 (accepted in JPC A)
 
-2. **A. Barman**, G. H. Jones, K. E. Weflen, M. Shepelenko, and J. M. L. Martin, Coupling between thermochemical contributions of subvalence correlation and of higher-order post-CCSD(T) correlation effects — a step toward ‘W5 theory’, 2026, arXiv:2601.02294 [physics.chem-ph]. (accepted in JPC A)
+(2) **A. Barman**, G. H. Jones, K. E. Weflen, M. Shepelenko, and J. M. L. Martin, Coupling between thermochemical contributions of subvalence correlation and of higher-order post-CCSD(T) correlation effects — a step toward ‘W5 theory’, 2026, arXiv:2601.02294 [physics.chem-ph]. (accepted in JPC A)
 
 **2024**
 
-1. **A. Barman**, A. Kumar, and P. Kumar, Stereodynamic origin of mode selectivity in the NH3 + F → NH2 + HF reaction, J. Chem. Sci., 64, 134 (2024).
+(1) **A. Barman**, A. Kumar, and P. Kumar, Stereodynamic origin of mode selectivity in the NH3 + F → NH2 + HF reaction, J. Chem. Sci., 64, 134 (2024).
