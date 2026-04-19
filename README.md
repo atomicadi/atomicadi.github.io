@@ -14,25 +14,25 @@
 </p>
 
 ## Education
-**2025-Present:** &nbsp;&nbsp; Ph.D. in Computational Quantum Chemistry, Department of Molecular Chemistry and Materials Science, Weizmann Institute of Science, Israel<br><br>
-**2021-2023:** &nbsp;&nbsp; M.Sc. in Chemistry, Department of Chemistry, Malaviya National Institute of Technology, Jaipur, Rajasthan, India<br><br> 
-**2018-2021:** &nbsp;&nbsp; B.Sc. in Chemistry (Hons.), Department of Chemistry, Ramakrishna Mission Vivekananda Centenery College, Rahara, Kolkata, India<br><br> 
+- **2025-Present:** &nbsp;&nbsp; Ph.D. in Computational Quantum Chemistry, Department of Molecular Chemistry and Materials Science, Weizmann Institute of Science, Israel<br><br>
+- **2021-2023:** &nbsp;&nbsp; M.Sc. in Chemistry, Department of Chemistry, Malaviya National Institute of Technology, Jaipur, Rajasthan, India<br><br> 
+- **2018-2021:** &nbsp;&nbsp; B.Sc. in Chemistry (Hons.), Department of Chemistry, Ramakrishna Mission Vivekananda Centenery College, Rahara, Kolkata, India<br><br> 
 
 
 ## Research Experiences
-**May, 2025-Present:** &nbsp;&nbsp; Ph.D. Thesis, Weizmann Institute of Science, Israel\
+- **May, 2025-Present:** &nbsp;&nbsp; Ph.D. Thesis, Weizmann Institute of Science, Israel\
 Supervisor: Prof. Gershom (Jan M. L.) Martin\
 Thesis title: Next-Generation Accurate Wavefunction-based Thermochemistry: W5 Theory and Approximations Through Localized-Orbital Coupled Cluster Approaches and Δ Machine Learning.<br><br>
 
-**Oct., 2024-March, 2025:** &nbsp;&nbsp; Project Associate, Malaviya National Institute of Technology, Jaipur, Rajasthan, India\
+- **Oct., 2024-March, 2025:** &nbsp;&nbsp; Project Associate, Malaviya National Institute of Technology, Jaipur, Rajasthan, India\
 PI: Dr. Pradeep Kumar\
 Project Title: Computational modelling of Heterogeneous and Multiphase Chemistry in the Atmosphere.<br><br>
 
-**June, 2023-Oct., 2023:** &nbsp;&nbsp; Extension of Master’s Thesis, Malaviya National Institute of Technology, Jaipur, Rajasthan, India\
+- **June, 2023-Oct., 2023:** &nbsp;&nbsp; Extension of Master’s Thesis, Malaviya National Institute of Technology, Jaipur, Rajasthan, India\
 Supervisor: Dr. Pradeep Kumar\
 Thesis title: Stereodynamic origin of mode selectivity in the NH<sub>3</sub> + F →  NH<sub>2</sub> + HF reaction.<br><br>
 
-**April, 2022-May, 2023:** &nbsp;&nbsp; Master’s Thesis, Malaviya National Institute of Technology, Jaipur, Rajasthan, India\
+- **April, 2022-May, 2023:** &nbsp;&nbsp; Master’s Thesis, Malaviya National Institute of Technology, Jaipur, Rajasthan, India\
 Supervisor: Dr. Pradeep Kumar\
 Thesis title: Origin of mode selectivity (Umbrella inversion mode) in the reaction NH<sub>3</sub> + F → NH<sub>2</sub> + HF?<br><br>
 
