@@ -4,11 +4,10 @@
 
 <p>
   <img src="docs/assets/Aditya-Barman_Vintage-image.png" width="200" align="left">
-  Believing in R.F.'s words, I joined Weizmann as a graduate student to train myself as a Computational Chemist and because of that, I have dealt with lots of software and research problems. Previously (at the thime of my M.Sc.) with the help of my lab seniors, I equipped myself with a strong mindset to try and focus on the same work despite the failure repeatedly.
-  
-Being a challenging job, research helps me to work with a team, think the problems in a new way and approach systematically. With the help of these capabilities, I wanna uncover the knowledge of this huge Quantum World and enrich my wisdom in this exciting theoretical chemistry field in future.
-I hope if I get any Ph.D., Project Assistant or Junior Scientist position, then I shall apply these skills I learned to glorify that Institute or Organisation.
+  Believing in R.F.’s words, I joined Weizmann as a graduate student to train myself as a Computational Chemist, and because of that, I have dealt with a lot of software and research problems. Previously (at the time of my M.Sc.), with the help of my lab seniors, I equipped myself with a strong mindset to try and focus on the same work despite repeated failures.
 
-  Add more text and it will wrap nicely around the image.
+Being a challenging job, research helps me work in a team, think about problems in new ways, and approach them systematically. With the help of these capabilities, I want to uncover the knowledge of this vast quantum world and enrich my understanding in this exciting field of theoretical chemistry in the future.
+
+So, thank you for visiting my website. A brief overview of my education, research work, life, and hobbies is given below:
 </p>
 
