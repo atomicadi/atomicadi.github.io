@@ -23,5 +23,7 @@
 2025-Present: &nbsp;&nbsp; Ph.D. Thesis, Weizmann Institute of Science, Israel
 
 Supervisor: Prof. Gershom (Jan M. L.) Martin
+Thesis title: Next-Generation Accurate Wavefunction-based Thermochemistry: W5 Theory and Approximations Through Localized-Orbital Coupled Cluster Approaches and Δ Machine Learning<br><br>
+
 2021-2023: &nbsp;&nbsp; M.Sc in Chemistry, Department of Chemistry, Malaviya National Institute of Technology, Jaipur, India<br><br> 
 2018-2021: &nbsp;&nbsp; B.Sc in Chemistry (Hons.), Department of Chemistry, Ramakrishna Mission Vivekananda Centenery College, Rahara, Kolkata, India<br><br> 
