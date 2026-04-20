@@ -64,8 +64,6 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
   <img src="docs/assets/drawings_Aditya-Barman.PNG" width="200" align="left">
 &nbsp;&nbsp; During the 2026 Iran–U.S. conflict, I revisited my (pseudo!) art hobby at the Leonardo Hotel lobby in Jerusalem, Israel.<br><br>
 
-  <img src="docs/assets/W5Prelim.png" width="200" align="left">
-&nbsp;&nbsp; During the 2026 Iran–U.S. conflict, I revisited my (pseudo!) art hobby at the Leonardo Hotel lobby in Jerusalem, Israel.<br><br>
 </p>
 
 
