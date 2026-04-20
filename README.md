@@ -16,11 +16,11 @@
 ## Education
 - **2025-Present:** &nbsp;&nbsp; Ph.D. in Computational Quantum Chemistry, Department of Molecular Chemistry and Materials Science, Weizmann Institute of Science, Israel<br><br>
 - **2021-2023:** &nbsp;&nbsp; M.Sc. in Chemistry, Department of Chemistry, Malaviya National Institute of Technology, Jaipur, Rajasthan, India<br><br> 
-- **2018-2021:** &nbsp;&nbsp; B.Sc. in Chemistry (Hons.), Department of Chemistry, Ramakrishna Mission Vivekananda Centenery College, Rahara, Kolkata, India<br><br> 
+- **2018-2021:** &nbsp;&nbsp; B.Sc. in Chemistry (Hons.), Department of Chemistry, Ramakrishna Mission Vivekananda Centenary College, Rahara, Kolkata, India<br><br> 
 
 
 ## Research Experiences
-- **May, 2025-Present:** &nbsp;&nbsp; Ph.D. Thesis, Weizmann Institute of Science, Israel\
+- **May, 2025-Present:** &nbsp;&nbsp; Doctoral  Thesis, Weizmann Institute of Science, Israel\
 Supervisor: Prof. Gershom (Jan M. L.) Martin\
 Thesis title: Next-Generation Accurate Wavefunction-based Thermochemistry: W5 Theory and Approximations Through Localized-Orbital Coupled Cluster Approaches and Δ Machine Learning.<br><br>
 
@@ -71,7 +71,7 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
   <img src="docs/assets/W5Prelim.png" width="200">
   <div>
-    After joining Weizmann, I also developed an interest in digital art and created this piece, which we thought of as the TOC for my first Ph.D. paper.
+    After joining Weizmann, I also developed an interest in digital art and created this piece, which we thought of as the TOC for my first Ph.D. paper (Paper no. 2 in publication list).
   </div>
 </div>
 
