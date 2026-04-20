@@ -76,7 +76,7 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
-  <img src="docs/assets/W5Prelim.png" width="200">
+  <img src="docs/assets/Images.png" width="200">
   <div>
     Sometimes I try to capture moments while traveling.
   </div>
