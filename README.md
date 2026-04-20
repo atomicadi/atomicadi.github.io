@@ -65,18 +65,20 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 
 ## Hobbies
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="docs/assets/drawings_Aditya-Barman.PNG" width="200" style="margin-right: 15px;">
-  <p style="margin: 0;">
+## Hobbies
+
+<div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
+  <img src="docs/assets/drawings_Aditya-Barman.PNG" width="200">
+  <div>
     During the 2026 Iran–U.S. conflict, I revisited my (pseudo!) art hobby at the Leonardo Hotel lobby in Jerusalem, Israel.
-  </p>
+  </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="docs/assets/W5Prelim.png" width="200" style="margin-right: 15px;">
-  <p style="margin: 0;">
+<div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
+  <img src="docs/assets/W5Prelim.png" width="200">
+  <div>
     During the 2026 Iran–U.S. conflict, I revisited my (pseudo!) art hobby at the Leonardo Hotel lobby in Jerusalem, Israel.
-  </p>
+  </div>
 </div>
 
 
