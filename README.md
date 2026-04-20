@@ -1,6 +1,6 @@
 "*I learned very early the difference between knowing the name of something and knowing something.*”
-
-                                                                         ... Richard P. Feynman
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ... Richard P. Feynman
+                                                                         
 
 <p>
   <img src="docs/assets/Aditya-Barman_Vintage-image.png" width="200" align="left">
