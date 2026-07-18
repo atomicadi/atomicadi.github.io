@@ -48,6 +48,7 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 
 ## Publications
 - **2026**
+  
 (4) **Barman, A.**; Jones, G. H.; Shepelenko, M.; Martin, J. M. L. FNO-CCSDTQ(5)Λ as an economical alternative for connected quintuple
 excitations contributions in coupled cluster thermochemistry _Chem. Phys. Lett._, **2026**, 879, 142951. [Link](https://doi.org/10.1016/j.cplett.2026.142951) 
 
