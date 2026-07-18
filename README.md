@@ -48,6 +48,9 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 
 ## Publications
 - **2026**
+(4) **Barman, A.**; Jones, G. H.; Shepelenko, M.; Martin, J. M. L. FNO-CCSDTQ(5)Λ as an economical alternative for connected quintuple
+excitations contributions in coupled cluster thermochemistry _Chem. Phys. Lett._, **2026**, 879, 142951. [Link](https://doi.org/10.1016/j.cplett.2026.142951) 
+
 
 (3) Fishman, V.; Lőrincz, B. D.; Semidalas, E.; **Barman, A.**; Martin, J. M. L.; Nagy, P. R.; Kállay, M. Development of Local Natural Orbital Arbitrary Order Coupled Cluster Methods and Assessment through Connected Quadruples. _J. Phys. Chem. A_, **2026**, 130, 16, 3233-3248. [Link](https://doi.org/10.1021/acs.jpca.6c00607) 
 
