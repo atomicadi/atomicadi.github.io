@@ -49,8 +49,11 @@ species and applies them to compute Conventional Transition State Theory (CTST) 
 ## Publications
 - **2026**
 
+  
+(5) **Barman, A.**; Jones, G. H.; Shepelenko, M.; Martin, J. M. L. A new open-shell CCSDTQ implementation and its application to the basis set convergence of post-CCSDT(Q) corrections in computational thermochemistry. _Chem. Phys. Lett._, **2026**, 898, 143003. [Link](https://doi.org/10.1016/j.cplett.2026.143003) 
 
-(4) **Barman, A.**; Jones, G. H.; Shepelenko, M.; Martin, J. M. L. FNO-CCSDTQ(5)Λ as an economical alternative for connected quintuple
+
+(4)  Jones, G. H.; **Barman, A.**; Shepelenko, M.; Martin, J. M. L. FNO-CCSDTQ(5)Λ as an economical alternative for connected quintuple
 excitations contributions in coupled cluster thermochemistry. _Chem. Phys. Lett._, **2026**, 879, 142951. [Link](https://doi.org/10.1016/j.cplett.2026.142951) 
 
 
